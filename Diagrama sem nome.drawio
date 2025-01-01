@@ -56,6 +56,24 @@
         <mxCell id="LOeqWLx_1DGtjDDwsyzD-23" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="590" width="30" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LOeqWLx_1DGtjDDwsyzD-24" value="média= (7+8+6)/3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="540" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LOeqWLx_1DGtjDDwsyzD-25" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.14285714285714285;arrowSize=0.21818181818181817;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="437.5" y="480" width="35" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LOeqWLx_1DGtjDDwsyzD-26" value="7" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="385" y="420" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LOeqWLx_1DGtjDDwsyzD-27" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="432.5" y="360" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LOeqWLx_1DGtjDDwsyzD-28" value="A média é maior ou igual 7" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="230" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LOeqWLx_1DGtjDDwsyzD-29" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="515" y="270" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
