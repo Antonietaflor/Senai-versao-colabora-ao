@@ -56,6 +56,9 @@
         <mxCell id="cIJ_xlBMrgR9hH7BB4or-9" value="Tipo de entrada = 1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="50" y="710" width="130" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="cIJ_xlBMrgR9hH7BB4or-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cIJ_xlBMrgR9hH7BB4or-10" target="cIJ_xlBMrgR9hH7BB4or-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cIJ_xlBMrgR9hH7BB4or-10" value="Tipo de entrada = 2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="860" width="125" height="110" as="geometry" />
         </mxCell>
@@ -66,7 +69,7 @@
           <mxGeometry x="270" y="735" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cIJ_xlBMrgR9hH7BB4or-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="260" y="865" width="100" height="100" as="geometry" />
+          <mxGeometry x="275" y="862.5" width="110" height="105" as="geometry" />
         </mxCell>
         <mxCell id="cIJ_xlBMrgR9hH7BB4or-17" value="Saldo inicial: &#39;&#39;+&amp;nbsp;&lt;div&gt;saldo&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="130" width="120" height="60" as="geometry" />
